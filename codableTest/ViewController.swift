@@ -13,11 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("zsk1977777111")
+        print("1111")
         print("5555");
-         print("zsk1111");
-        print("zsk2222");
-
         
         
         
